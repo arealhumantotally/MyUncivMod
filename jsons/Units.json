@@ -19,7 +19,7 @@
 		"uniqueTo": "Impostor (Among Us)",
 		"requiredResource": "Iron",
 		"replacementTextForUniques": "Invisible to non-adjacent units \n spends 50 gold to recruit units it kills",
-		"uniques": ["Invisible to non-adjacent units", "When defeating a [Wounded] unit, earn [-50] Gold and recruit it"],
+		"uniques": ["Invisible to non-adjacent units", "Can move after attacking"],
 		"attackSound": "metalhit"
 	}
 ]
