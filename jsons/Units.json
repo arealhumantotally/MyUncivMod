@@ -7,5 +7,19 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Invisible to non-adjacent units"],
 		"movement": 4,
 		"cost": 50
+	},
+	{
+		"name": "Impostor",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"uniqueTo": "Impostor (Among Us)",
+		"requiredResource": "Iron",
+		"replacementTextForUniques": "Invisible to non-adjacent units \n spends 50 gold to recruit units it kills",
+		"uniques": ["Invisible to non-adjacent units", "When defeating a [All] unit, earn [-50] Gold and recruit it"],
+		"attackSound": "metalhit"
 	}
 ]
