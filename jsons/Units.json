@@ -2,7 +2,7 @@
 	{
 		"name": "Crewmate",
 		"unitType": "Civilian",
-		"uniqueTo": "Crewmate (Among Us)",
+		"uniqueTo": "Crewmates (Among Us)",
 		"replaces": "Worker",
 		"uniques": ["Can build [Land] improvements on tiles", "Invisible to non-adjacent units"],
 		"movement": 4,
@@ -16,7 +16,7 @@
 		"cost": 150,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
-		"uniqueTo": "Impostor (Among Us)",
+		"uniqueTo": "Impostors (Among Us)",
 		"requiredResource": "Iron",
 		"replacementTextForUniques": "Invisible to non-adjacent units \n spends 50 gold to recruit units it kills",
 		"uniques": ["Invisible to non-adjacent units", "Can move after attacking"],
