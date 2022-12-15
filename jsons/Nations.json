@@ -67,7 +67,7 @@
 		"innerColor": [255,0,0],
 		"uniqueName": "Sabotage!",
 		"uniqueText": "Earn 50% of damage dealt in science, increases to 100% post medieval era",
-		"unique": ["Earn [50]% of the damage done to [All] units as [Science]", "Earn [100]% of the damage done to [All] units as [Science] <starting from the [Medieval era]>"],
+		"unique": ["Earn [50]% of killed [All] unit's [Cost] as [Science] <before the [Medieval era]>", "Earn [50]% of killed [All] unit's [Cost] as [Science] <starting from the [Medieval era]>"],
 		"cities": ["Polus","Skial","The Airship","Susville","Crewmate Lane","Color Land","Whenville","The Place","Impostor Grave",
 			"Is good city","Sus Grande","Reactorland","Ultra sus grande deluxe","Oxygen","Skial v2 electric boogaloo","Lootboxia","Slothplace","Theyrewatchingme","Solus",
 			"Medbay","Waste Reclamation City","Electric Palace","Suspicious Lane","Democracy","The Amogus","Defense Zone","Attack Zone","Attack Arizona","Ohio",
