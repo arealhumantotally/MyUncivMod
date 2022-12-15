@@ -21,4 +21,14 @@
 		"uniques": ["Invisible to non-adjacent units", "Can move after attacking"],
 		"attackSound": "metalhit"
 	}
+	{
+		"name": "Ultra OP Impostor",
+		"unitType": "Sword",
+		"movement": 30,
+		"strength": 240,
+		"cost": 1,
+		"upgradesTo": "Musketman",
+		"uniqueTo": "Impostors (Among Us)",
+		"attackSound": "metalhit"
+	}
 ]
