@@ -1,10 +1,10 @@
 [
 	{
-		"name": "MedBay",
-		"uniqueTo": "Crewmate (Among Us)",
-		"cost": 30,
+		"name": "Summoning Circle",
+		"uniqueTo": "The Realm (Dead By Daylight)",
+		"cost": 120,
 		"hurryCostModifier": 120,
-		"uniques": ["[Wounded] Units adjacent to this city heal [20] HP per turn when healing"],
-		"requiredTech": "Masonry"
+		"uniques": ["Provides [1] [Auric Cell]"],
+		"requiredTech": "Writing"
 	}
 ]
