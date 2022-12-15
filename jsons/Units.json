@@ -25,15 +25,15 @@
 	{
 		"name": "Cataphract Squad",
 		"unitType": "Gunpowder",
-		"movement": 4,
+		"movement": 1,
 		"strength": 70,
 		"rangedStrength": 105,
 		"range": 2,
 		"replaces": "Mechanized Infantry",
-		"cost": 550,
+		"cost": 600,
 		"uniqueTo": "The Empire (Rimworld)",
 		"requiredTech": "Mobile Tactics",
-		"uniques": ["Damage is ignored when determining unit Strength"],
+		"uniques": ["[5] Movement <before [3] turns>"],
 		"attackSound": "tankshot"
 	}
 ]
