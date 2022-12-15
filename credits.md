@@ -1,1 +1,2 @@
+Crown by Pundimon from <a href="https://thenounproject.com/browse/icons/term/crown/" target="_blank" title="Crown Icons">Noun Project</a>
 Gun by Simon Child from <a href="https://thenounproject.com/browse/icons/term/gun/" target="_blank" title="Gun Icons">Noun Project</a>
