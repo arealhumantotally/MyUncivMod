@@ -35,27 +35,5 @@
 		"requiredTech": "Mobile Tactics",
 		"uniques": ["[5] Movement <before [3] turns>"],
 		"attackSound": "tankshot"
-	},
-	{
-		"name": "The Trapper",
-		"unitType": "Melee",
-		"movement": 3,
-		"strength": 12,
-		"cost": 150,
-		"uniqueTo": "The Realm (Dead By Daylight)",
-		"requiredTech": "Trapping",
-		"replacementTextForUniques": "Increases in strength as the eras go by. \n Can be destroyed to summon 2 bear traps. Single use melee units that are invisible to enemies",
-		"uniques": ["[3] free [Bear Trap] units appear <by consuming this unit>", "[+50]% Strength <during the [Classical era]>", "[+108.33]% Strength <during the [Medieval era]>", "[+125]% Strength <during the [Renaissance era]>", "[+216.67]% Strength <during the [Industrial era]>", "[+450.67]% Strength <during the [Modern era]>", "[+783.33]% Strength <during the [Information era]>"]
-	},
-	{
-		"name": "Bear Trap",
-		"unitType": "Melee",
-		"movement": 1,
-		"strength": 20,
-		"cost": 15000,
-		"uniqueTo": "The Realm (Dead By Daylight)",
-		"requiredTech": "Trapping",
-		"replacementTextForUniques": "Increases in strength as the eras go by. \n Invisible to enemy civilizations \n Is not intended to be normally built instead being summoned by The Trapper",
-		"uniques": ["Self-destructs when attacking", "Invisible to others", "[+50]% Strength <during the [Classical era]>", "[+108.33]% Strength <during the [Medieval era]>", "[+125]% Strength <during the [Renaissance era]>", "[+216.67]% Strength <during the [Industrial era]>", "[+450.67]% Strength <during the [Modern era]>", "[+783.33]% Strength <during the [Information era]>"]
 	}
 ]

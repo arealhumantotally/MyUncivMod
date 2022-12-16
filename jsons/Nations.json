@@ -105,38 +105,5 @@
 		"uniqueText": "Every city state you control gives you 25% of its science, culture, gold, and faith yields \n Gain 25% more influence from gold gifts to city states",
 		"uniques": ["Gifts of Gold to City-States generate [25]% more Influence", "Allied City-States provide [Culture] equal to [25]% of what they produce for themselves", "Allied City-States provide [Gold] equal to [25]% of what they produce for themselves", "Allied City-States provide [Faith] equal to [25]% of what they produce for themselves", "Allied City-States provide [Science] equal to [25]% of what they produce for themselves"],
 		"cities": ["Aloria", "Betharrah", "Coralia", "Danvar", "Eldorado", "Gleamgard", "Harmonia", "Illumina", "Jovaria", "Korinthia", "Luminos", "Mysteria", "Paxia", "Quintessence", "Ravendom", "Serenity", "Terragoria", "Utopia", "Virtue", "Wondersky", "Xanadu", "Zephyrion"]
-	},
-	{
-		"name": "The Realm (Dead By Daylight)",
-		"leaderName": "The Entity",
-		"adjective": ["Cosmic horror"],
-		"preferredVictoryType": "Domination",
-		
-		"startIntroPart1": "*unintelligible* ",
-		
-		"declaringWar": "Thou art an uneducated freak! Thou shalt have no place in the empire!",
-		"attacked": "I take not kindly to fools!",
-		"defeated": "Is this how i fall? A mere peasant on a rimworld...",
-		"introduction": "Ah, more life fascinating..",
-		
-		"neutralHello": "Hello mine friend!",
-		"neutralLetsHearIt": ["What have you proposed?"],
-		"neutralNo": ["I cannot agree to that mine friend."],
-		"neutralYes": ["A gracious agreement for all parties!"],
-
-		"hateHello": "Oh look, the caveman wishes to speak.",
-		"hateLetsHearIt": ["Here to beg?"],
-		"hateNo": ["Just as foolish as i thought"],
-		"hateYes": ["Thou may be a fool..but an agreeable one."],
-		
-		"afterPeace": "I see thou hath come to thine senses",
-		"tradeRequest": "I hope this deal finds you well.",
-
-		"outerColor": [0,0,255],
-		"innerColor": [255,0,0],
-		"uniqueName": "Demonic Power",
-		"uniqueText": ["Doubles unhappiness from city count. \n Can build 'Summoning Circles' granting a unique strategic resource."],
-		"uniques": [ "Unhappiness from number of Cities doubled"],
-		"cities": ["Aloria", "Betharrah", "Coralia", "Danvar", "Eldorado", "Gleamgard", "Harmonia", "Illumina", "Jovaria", "Korinthia", "Luminos", "Mysteria", "Paxia", "Quintessence", "Ravendom", "Serenity", "Terragoria", "Utopia", "Virtue", "Wondersky", "Xanadu", "Zephyrion"]
 	}
 ]
