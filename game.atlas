@@ -1,75 +1,75 @@
 
 game.png
-size: 2048, 1024
+size: 1024, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Holodeck
   rotate: false
-  xy: 4, 4
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/MedBay
   rotate: false
-  xy: 112, 112
+  xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Summoning Circle
   rotate: false
-  xy: 112, 112
+  xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Crewmate (Among Us)
   rotate: false
-  xy: 1420, 820
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Crewmates (Among Us)
   rotate: false
-  xy: 1420, 820
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Impostors (Among Us)
   rotate: false
-  xy: 1420, 820
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Empire (Rimworld)
   rotate: false
-  xy: 712, 220
-  size: 700, 700
-  orig: 700, 700
+  xy: 544, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Cataphract Squad
   rotate: false
-  xy: 4, 220
-  size: 700, 700
-  orig: 700, 700
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Crewmate
   rotate: false
-  xy: 4, 112
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Impostor
   rotate: false
-  xy: 4, 112
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
