@@ -107,13 +107,12 @@
 		"cities": ["Aloria", "Betharrah", "Coralia", "Danvar", "Eldorado", "Gleamgard", "Harmonia", "Illumina", "Jovaria", "Korinthia", "Luminos", "Mysteria", "Paxia", "Quintessence", "Ravendom", "Serenity", "Terragoria", "Utopia", "Virtue", "Wondersky", "Xanadu", "Zephyrion"]
 	},
 	{
-		"name": "NOTIMPOSTOR",
+		"name": "The Realm (Dead By Daylight)",
 		"leaderName": "Blue",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"adjective": ["horror"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "There is an impostor among us..",
+		"startIntroPart1": "AAAAAAAAAAAAAAA",
 		
 		"declaringWar": "*voting noise*",
 		"attacked": "I'm no impostor!",
