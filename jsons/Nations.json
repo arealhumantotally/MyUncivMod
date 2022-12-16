@@ -136,7 +136,6 @@
 		"innerColor": [255,0,0],
 		"uniqueName": "Demonic Power",
 		"uniqueText": ["Doubles unhappiness from city count. \n Can build 'Summoning Circles' granting a unique strategic resource."],
-		"uniques": [ "Unhappiness from number of Cities doubled"],
 		"cities": ["Aloria", "Betharrah", "Coralia", "Danvar", "Eldorado", "Gleamgard", "Harmonia", "Illumina", "Jovaria", "Korinthia", "Luminos", "Mysteria", "Paxia", "Quintessence", "Ravendom", "Serenity", "Terragoria", "Utopia", "Virtue", "Wondersky", "Xanadu", "Zephyrion"]
 	}
 ]
