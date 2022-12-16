@@ -107,35 +107,40 @@
 		"cities": ["Aloria", "Betharrah", "Coralia", "Danvar", "Eldorado", "Gleamgard", "Harmonia", "Illumina", "Jovaria", "Korinthia", "Luminos", "Mysteria", "Paxia", "Quintessence", "Ravendom", "Serenity", "Terragoria", "Utopia", "Virtue", "Wondersky", "Xanadu", "Zephyrion"]
 	},
 	{
-		"name": "The Realm (Dead By Daylight)",
-		"leaderName": "The Entity",
-		"adjective": ["Cosmichorror"],
+		"name": "NOTIMPOSTOR",
+		"leaderName": "Blue",
+		"adjective": ["alien"],
+		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "*unintelligible* ",
+		"startIntroPart1": "There is an impostor among us..",
 		
-		"declaringWar": "Thou art an uneducated freak! Thou shalt have no place in the empire!",
-		"attacked": "I take not kindly to fools!",
-		"defeated": "Is this how i fall? A mere peasant on a rimworld...",
-		"introduction": "Ah, more life fascinating..",
+		"declaringWar": "*voting noise*",
+		"attacked": "I'm no impostor!",
+		"defeated": "*ejection noise",
+		"introduction": "I trust you're not one of them?",
 		
-		"neutralHello": "Hello mine friend!",
-		"neutralLetsHearIt": ["What have you proposed?"],
-		"neutralNo": ["I cannot agree to that mine friend."],
-		"neutralYes": ["A gracious agreement for all parties!"],
+		"neutralHello": "Any leads?",
+		"neutralLetsHearIt": ["Emergency meeting!","Any sus?","Do we skip or?"],
+		"neutralNo": ["*Negative voting noise*"],
+		"neutralYes": ["*Positive voting noise*"],
 
-		"hateHello": "Oh look, the caveman wishes to speak.",
-		"hateLetsHearIt": ["Here to beg?"],
-		"hateNo": ["Just as foolish as i thought"],
-		"hateYes": ["Thou may be a fool..but an agreeable one."],
+		"hateHello": "Are you really who you claim to be??",
+		"hateLetsHearIt": ["Stop acting so sus...","Any defense?"],
+		"hateNo": ["*Very negative voting noise*"],
+		"hateYes": ["*Begrudging positive voting noise"],
 		
-		"afterPeace": "I see thou hath come to thine senses",
-		"tradeRequest": "I hope this deal finds you well.",
+		"afterPeace": "Guess you aren't so sus afterall...",
+		"tradeRequest": "Got some tasks for you.",
 
 		"outerColor": [0,0,255],
 		"innerColor": [255,0,0],
-		"uniqueName": "Demonic Power",
-		"uniqueText": ["Doubles unhappiness from city count. \n Can build 'Summoning Circles' granting a unique strategic resource."],
-		"cities": ["Aloria", "Betharrah", "Coralia", "Danvar", "Eldorado", "Gleamgard", "Harmonia", "Illumina", "Jovaria", "Korinthia", "Luminos", "Mysteria", "Paxia", "Quintessence", "Ravendom", "Serenity", "Terragoria", "Utopia", "Virtue", "Wondersky", "Xanadu", "Zephyrion"]
+		"uniqueName": "Sabotage!",
+		"uniqueText": "Earn 50% of damage dealt in science, increases to 100% post medieval era",
+		"uniques": ["Earn [50]% of the damage done to [All] units as [Science] <before the [Medieval era]>", "Earn [100]% of the damage done to [All] units as [Science] <starting from the [Medieval era]>"],
+		"cities": ["Polus","Skial","The Airship","Susville","Crewmate Lane","Color Land","Whenville","The Place","Impostor Grave",
+			"Is good city","Sus Grande","Reactorland","Ultra sus grande deluxe","Oxygen","Skial v2 electric boogaloo","Lootboxia","Slothplace","Theyrewatchingme","Solus",
+			"Medbay","Waste Reclamation City","Electric Palace","Suspicious Lane","Democracy","The Amogus","Defense Zone","Attack Zone","Attack Arizona","Ohio",
+			"The Task Palace","The Fake Task Palace","Nicejobformakingallthesecities","Butnowihavetoaskyou","to please","STOPPOSTINGABOUTAMONGUSIMTIREDOFSEEINGIT"]
 	}
 ]
