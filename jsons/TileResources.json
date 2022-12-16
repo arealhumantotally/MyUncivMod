@@ -1,5 +1,7 @@
-{
-    "name": "Auric Cell",
-    "resourceType": "Strategic",
-    "happiness": -1
-}
+[
+    {
+        "name": "Auric Cell",
+        "resourceType": "Strategic",
+        "happiness": -1
+    }
+]
